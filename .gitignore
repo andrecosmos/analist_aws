@@ -9,3 +9,4 @@ __pycache__/
 .streamlit/
 temp/*
 generated/*
+*:Zone.Identifier
